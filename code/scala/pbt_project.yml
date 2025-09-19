@@ -1,0 +1,75 @@
+name: lily.runte
+description: systemic
+version: 0.0.1
+author: 3lwuomdl.d99s5gki@gooxgvzv.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: lilyrunte
+  parentArtefactID: lwuomdld99s5gkigooxgvzvcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:36:40'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:36:40'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:36:40.057895Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1228937909'
+  createdAt: '2025-09-19T23:36:40.057895Z'
+  type: plibMaven
+projectDependencies:
+  '364':
+    projectUID: 364
+    projectName: chase.murazik
+    repositoryPath: gitUri=http://gitserver:3000/dev_cx668MlY_team_594/dev_cx668MlY_project_364.git&subPath=
+    version: chase.murazik/7.0.4.234
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:36:40'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus:
+    author: 3lwuomdl.d99s5gki@gooxgvzv.com
+    createdAt: '2025-09-19 23:36:41'
+    configurations:
+      pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus/dev:
+        name: dev
+        author: null
+        createdAt: '2025-09-19 23:36:41'
+      pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus/dev2:
+        name: dev2
+        author: null
+        createdAt: '2025-09-19 23:36:41'
+      pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus/dev3:
+        name: dev3
+        author: null
+        createdAt: '2025-09-19 23:36:41'
+    basePipeline: 364/pipelines/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus
+projectConfigurations: {}
