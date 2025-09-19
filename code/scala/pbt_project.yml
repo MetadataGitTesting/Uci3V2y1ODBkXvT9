@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: 3lwuomdl.d99s5gki@gooxgvzv.com
     createdAt: '2025-09-19 23:36:41'
     configurations:
-      pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus/dev:
-        name: dev
-        author: null
-        createdAt: '2025-09-19 23:36:41'
       pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus/dev2:
         name: dev2
-        author: null
-        createdAt: '2025-09-19 23:36:41'
-      pipelineConfigurations/chase.murazik/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus/dev3:
-        name: dev3
         author: null
         createdAt: '2025-09-19 23:36:41'
     basePipeline: 364/pipelines/Dwain_Bogisich_VTamara_KnightDr__Myles_Brakus
